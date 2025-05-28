@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-      
+          Branch 3 is in control now
+        </p>
+<button>branch_3</button>
+
+      <p>
           Editing the paragrapg for Branch 2
         </p>
 <button>branch_2</button>
