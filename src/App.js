@@ -10,7 +10,9 @@ function App() {
           Branch_1 is editing this page now
         </p>
         <button>Branch_1 here</button>
-
+          Developer page here
+        </p>
+        <button>main-button</button>
         <a
           className="App-link"
           href="https://reactjs.org"
