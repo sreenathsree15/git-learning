@@ -10,6 +10,7 @@ function App() {
           Branch_1 is editing this page now
         </p>
         <button>Branch_1 here</button>
+        <p>
           Developer page here
         </p>
         <button>main-button</button>
