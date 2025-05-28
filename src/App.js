@@ -9,6 +9,8 @@ function App() {
         <p>
           Branch 3 is in control now
         </p>
+<button>branch_3</button>
+
         <a
           className="App-link"
           href="https://reactjs.org"
