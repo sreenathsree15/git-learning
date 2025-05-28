@@ -7,23 +7,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Branch_1 is editing this page now
+        </p>
+        <button>Branch_1 here</button>
           Developer page here
         </p>
-
-
-
-
         <button>main-button</button>
-
-        
-
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React by Branch_1
         </a>
       </header>
     </div>
