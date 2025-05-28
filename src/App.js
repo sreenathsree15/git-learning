@@ -7,6 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+      
+          Editing the paragrapg for Branch 2
+        </p>
+<button>branch_2</button>
+          <p>
+
           Branch_1 is editing this page now
         </p>
         <button>Branch_1 here</button>
@@ -14,13 +20,18 @@ function App() {
           Developer page here
         </p>
         <button>main-button</button>
+ 
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
+ 
+          Learn React by Branch 2
+
           Learn React by Branch_1
+ 
         </a>
       </header>
     </div>
